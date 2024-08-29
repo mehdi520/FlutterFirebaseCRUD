@@ -1,1 +1,1 @@
-Books Crud App using clean arhitecture, Firebase Auth and Cloud Firestore
+Books CRUD App using clean arhitecture, Firebase Auth and Cloud Firestore
