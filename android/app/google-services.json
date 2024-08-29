@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "729887176928",
+    "project_id": "nexusapp-bdc61",
+    "storage_bucket": "nexusapp-bdc61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729887176928:android:c44f77073a373d60783885",
+        "android_client_info": {
+          "package_name": "com.mehdi.my_books_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBwujITvGJLpZK9RcQu7uMEucESLsZqdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729887176928:android:68dcd0d723f4119e783885",
+        "android_client_info": {
+          "package_name": "com.mehdi.nexus_fb_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBwujITvGJLpZK9RcQu7uMEucESLsZqdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
